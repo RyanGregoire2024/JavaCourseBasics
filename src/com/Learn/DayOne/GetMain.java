@@ -1,4 +1,4 @@
-package GetMain.main;
+package com.Learn.DayOne;
 
 public class GetMain {
 
